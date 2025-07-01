@@ -19,7 +19,10 @@ This is a mobile quiz application built using Flutter that presents users with m
 
 ## 📱 Screenshots
 
-> *(Add your screenshots here later if needed)*
+> ![image](https://github.com/user-attachments/assets/5470dd65-3caf-4086-b753-3918b5f4bfe6)
+> ![image](https://github.com/user-attachments/assets/f8b224b0-caae-4e0a-a349-db1dd495a5a4)
+
+
 
 ---
 
